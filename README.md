@@ -28,6 +28,6 @@ To start, you will require
  3. Repeat till you have about 50 pictures of all three people. 
  4. Now, open the console by going to the three dots in the top right of your Chrome window, hover on More tools and then press Developer tools.
  5. Now you can press the Train Network button. You should see the losses being printed in the console after some time.
- 6. After _Training over. You are good to go_ is printed in the console, you can press Start Predicicting, and see the predictions.
+ 6. After _Training over. You are good to go_ is printed in the console, you can press Start Predicting, and see the predictions.
  
  
