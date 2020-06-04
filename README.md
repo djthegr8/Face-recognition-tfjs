@@ -2,7 +2,7 @@
 The repository of the Face Recognition TFjS article on deploying models. 
 
 Made by Dweep Joshipura, Co-author and DL Head at [LightSpeedAC](https://lightspeedac.blogspot.com)
-
+GUI updated by [LOHT03](https://github.com/loht03)
 ## Downloading Requirements ##
 To start, you will require 
 - Chrome Web Server
