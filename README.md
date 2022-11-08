@@ -22,7 +22,7 @@ To start, you will require
  3. Configure and use.
  
  ## Using the demo ##
- As soon as you complete downloading the rep files and Chrome Web Server, you will have the facerecgn.html file open
+ As soon as you complete downloading the repo files and Chrome Web Server, you will have the facerecgn.html file open
  1. After you permit Webcam access, please enter names in the three input fields and submit them.
  2. With that, you can start adding images to the dataset by first ensuring that (only that) person is seen in the webcam, and then press on his/her name's button.
  3. Repeat till you have about 50 pictures of all three people. 
