@@ -1,8 +1,6 @@
 # Face-recognition-tfjs #
 The repository of the Face Recognition TFjS article on deploying models. 
 
-Made by Dweep Joshipura, Co-author and DL Head at [LightSpeedAC](https://lightspeedac.blogspot.com)
-
 ## Downloading Requirements ##
 To start, you will require 
 - Chrome Web Server
